@@ -6,7 +6,7 @@
   <link href="http://abobot.github.io/atom.xml" rel="self"/>
   
   <link href="http://abobot.github.io/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2021-09-22T11:19:28.646Z</updated>
   <id>http://abobot.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>typecho</title>
+    <link href="http://abobot.github.io/2021/09/22/typecho/"/>
+    <id>http://abobot.github.io/2021/09/22/typecho/</id>
+    <published>2021-09-22T11:18:11.000Z</published>
+    <updated>2021-09-22T11:19:28.646Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="typecho"><a href="#typecho" class="headerlink" title="typecho"></a>typecho</h1><ol><li>安装镜像</li></ol><p><code>docker pull 80x86/typecho</code></p><ol start="2"><li>实例化</li></ol><p><code>docker run -d --name=typecho-blog --restart always -e PHP_TZ=Asia/Shanghai -e PHP_MAX_EXECUTION_TIME=600 -p 8081:80 80x86/typecho:latest</code></p><blockquote><p>8081:80将本地的8081端口映射到容器的80端口</p></blockquote><ol start="3"><li>查看ip信息</li></ol><p><code>docker inspect xx</code></p><blockquote><p>xx为实例id前两位  </p><p>ip:172.17.0.4</p></blockquote><ol start="4"><li>安装nginx</li></ol><p><code>docker pull nginx</code></p><ol start="5"><li>安装mysql</li></ol><p><code>docker pull mysql</code></p><p><code>docker run --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 -d mysql:latest</code></p><ol start="6"><li>在shell中访问mysql</li></ol><p><code>docker exec -it mysql-test bash</code></p><ol start="7"><li>在shell中输入</li></ol><p><code>mysql -uroot -p -h localhost</code></p><ul><li>密码123456</li></ul><ol start="8"><li>出现mysql后输入</li></ol><p><code>create database typecho</code></p><ol start="9"><li>教程<a href="https://www.freesion.com/article/90701104159/01">https://www.freesion.com/article/90701104159/01</a></li><li>选择数据库</li></ol><p><code>use typecho</code></p><ul><li>新建用户</li></ul><p><code>create user &#39;root&#39;@&#39;localhost&#39; identified by &#39;123456&#39;;</code></p><blockquote><p>上面代码没有作用</p></blockquote><p><code>create user &#39;typecho&#39;@&#39;%&#39; identified by &#39;@typecho&#39;</code></p><ul><li>设置权限</li></ul><p><code> grant select,insert,update,delete,create on typecho.* to typecho;</code></p><ul><li>刷新权限</li></ul><p><code>flush  privileges</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;typecho&quot;&gt;&lt;a href=&quot;#typecho&quot; class=&quot;headerlink&quot; title=&quot;typecho&quot;&gt;&lt;/a&gt;typecho&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;安装镜像&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;docker pull 80x86/t</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

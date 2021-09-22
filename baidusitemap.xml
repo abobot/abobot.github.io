@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://abobot.github.io/2021/09/22/typecho/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  <url>
     <loc>http://abobot.github.io/2021/09/22/hello-world/</loc>
     <lastmod>1985-10-26</lastmod>
   </url>
