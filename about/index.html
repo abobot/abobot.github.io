@@ -132,7 +132,7 @@
         },
         xAxis: {
             type: 'category',
-            data: ["Hexo","pure","docker","github","adguard","typecho","加密","记录","dplayer","plugin"]
+            data: ["Hexo","pure","docker","github","dplayer","plugin","bilibili","video","adguard","typecho"]
         },
         yAxis: {
             type: 'value'
@@ -185,7 +185,7 @@
                 type: 'pie',
                 radius: '75%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"docker","value":2},{"name":"Hexo","value":10},{"name":"记录","value":1},{"name":"video","value":1}],
+                data: [{"name":"video","value":1},{"name":"docker","value":2},{"name":"Hexo","value":10},{"name":"记录","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -216,7 +216,7 @@
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"docker","max":11},{"name":"Hexo","max":11},{"name":"记录","max":11},{"name":"video","max":11}],
+            indicator: [{"name":"video","max":11},{"name":"docker","max":11},{"name":"Hexo","max":11},{"name":"记录","max":11}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '75%'
@@ -227,7 +227,7 @@
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [2,10,1,1],
+                    value : [1,2,10,1],
                     // name : 'Categories:'
                     name: '# Category articles'
                 }
