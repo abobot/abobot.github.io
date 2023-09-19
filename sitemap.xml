@@ -179,6 +179,62 @@
 
   
   <url>
+    <loc>http://19999997.xyz/tags/docker/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/adguard/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/Hexo/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/pure/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/typecho/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/%E5%8A%A0%E5%AF%86/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/github/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://19999997.xyz/tags/dplayer/</loc>
     <lastmod>2023-09-19</lastmod>
     <changefreq>daily</changefreq>
@@ -206,70 +262,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://19999997.xyz/tags/docker/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/adguard/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/typecho/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/Hexo/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/pure/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/%E5%8A%A0%E5%AF%86/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/github/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://19999997.xyz/categories/video/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://19999997.xyz/categories/docker/</loc>
@@ -287,6 +280,13 @@
   
   <url>
     <loc>http://19999997.xyz/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/categories/video/</loc>
     <lastmod>2023-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
