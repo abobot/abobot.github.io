@@ -9,7 +9,8 @@
 
 + [添加加载动画](https://abobot.github.io/20210927/hexo-pure-gai-zao-ji-hua-tian-jia-jia-zai-dong-hua.html)
 + [添加hexo-lazyload-image插件（图片懒加载）](https://abobot.github.io/20210927/hexo-pure-gai-zao-ji-hua-tu-pian-lan-jia-zai.html)
-+ [添加标签云]({% post_link "Hexo-pure改造计划——添加标签云" %})
++ 添加标签云
+  + {% post_link "Hexo-pure改造计划——添加标签云" %}
 
 
 **20230920更新**
