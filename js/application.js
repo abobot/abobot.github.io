@@ -76,6 +76,7 @@ $(function() {
   }
 });
 
+//添加全局函数 addLoadEvent
 function addLoadEvent(func) {
   var oldonload = window.onload;
   if (typeof window.onload != 'function') {
