@@ -42,6 +42,7 @@
 **添加可折叠内容**
 
 > {% post_link 'Hexo-静态博客添加可折叠内容' %}
+> {% post_link 'Hexo-pure改造计划——添加utterances评论支持' %}
 
 **更新hexo**
 
