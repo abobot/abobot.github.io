@@ -1,3 +1,7 @@
+http://19999997.xyz/guide/hexo-plugin-recommend.html
+http://19999997.xyz/guide/hexo-theme-purabo-configurations.html
+http://19999997.xyz/guide/hexo-theme-purabo-guides.html
+http://19999997.xyz/guide/quickly-start.html
 http://19999997.xyz/hexo-optimizations.html
 http://19999997.xyz/hexo-auto-deploy.html
 http://19999997.xyz/hexo-adds-images-lzayloading.html
@@ -16,10 +20,6 @@ http://19999997.xyz/docker-installs-typecho.html
 http://19999997.xyz/docker-installs-adguard.html
 http://19999997.xyz/different-between-local-hexo-and-github-pages.html
 http://19999997.xyz/backup-to-github.html
-http://19999997.xyz/hexo-theme-purabo-configurations.html
-http://19999997.xyz/hexo-theme-purabo-guides.html
-http://19999997.xyz/quickly-start.html
-http://19999997.xyz/hexo-plugin-recommend.html
 http://19999997.xyz/links/index.html
 http://19999997.xyz/404.html
 http://19999997.xyz/tags/index.html
