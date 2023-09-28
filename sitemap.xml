@@ -4,16 +4,7 @@
   <url>
     <loc>http://19999997.xyz/guide/hexo-plugin-recommend.html</loc>
     
-    <lastmod>2023-09-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/guide/hexo-theme-purabo-configurations.html</loc>
-    
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,7 @@
   <url>
     <loc>http://19999997.xyz/guide/hexo-theme-purabo-guides.html</loc>
     
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +21,15 @@
   
   <url>
     <loc>http://19999997.xyz/guide/quickly-start.html</loc>
+    
+    <lastmod>2023-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/guide/hexo-theme-purabo-configurations.html</loc>
     
     <lastmod>2023-09-27</lastmod>
     
@@ -274,7 +274,7 @@
 
   <url>
     <loc>http://19999997.xyz/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -282,119 +282,119 @@
   
   <url>
     <loc>http://19999997.xyz/tags/dplayer/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/plugin/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/bilibili/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/video/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/docker/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/adguard/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/typecho/</loc>
-    <lastmod>2023-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/test/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/Hexo/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/pure/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/%E6%94%B9%E9%80%A0/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/test/</loc>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/hexo/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/%E5%8A%A0%E5%AF%86/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/github/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/guide/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/tags/purabo/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -403,49 +403,49 @@
   
   <url>
     <loc>http://19999997.xyz/categories/video/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/categories/docker/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/categories/%E6%94%B9%E9%80%A0/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/categories/hexo/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/categories/Hexo/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/categories/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://19999997.xyz/categories/guide/</loc>
-    <lastmod>2023-09-27</lastmod>
+    <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
