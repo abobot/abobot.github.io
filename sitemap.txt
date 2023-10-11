@@ -39,11 +39,11 @@ http://19999997.xyz/tags/bilibili/
 http://19999997.xyz/tags/video/
 http://19999997.xyz/tags/docker/
 http://19999997.xyz/tags/adguard/
+http://19999997.xyz/tags/typecho/
 http://19999997.xyz/tags/test/
 http://19999997.xyz/tags/Hexo/
 http://19999997.xyz/tags/pure/
 http://19999997.xyz/tags/%E6%94%B9%E9%80%A0/
-http://19999997.xyz/tags/typecho/
 http://19999997.xyz/tags/hexo/
 http://19999997.xyz/tags/%E5%8A%A0%E5%AF%86/
 http://19999997.xyz/tags/%E8%AE%B0%E5%BD%95/
