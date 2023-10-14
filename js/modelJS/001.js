@@ -5,7 +5,7 @@ import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
 
 // https://codesandbox.io/s/three-jsjia-zai-3dmo-xing-forked-v6yjgy?file=/src/Scene.js
-const path = "../js/three/models/001/"
+const path = "../js/models/001/"
 const DecoderPath = '../js/three/jsm/libs/draco/'
 
 let renderer, scene, camera, controls, material;
@@ -97,7 +97,7 @@ function animate(){
 }
 
 function setLight() {
-    let light = 2;
+    let light = 1;
     switch(light){
       case 0:
         const spotLight = new THREE.SpotLight()
