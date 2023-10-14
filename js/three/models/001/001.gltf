@@ -1,0 +1,186 @@
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "componentType": 5123,
+            "count": 4968,
+            "type": "SCALAR"
+        },
+        {
+            "componentType": 5126,
+            "count": 1662,
+            "type": "VEC3",
+            "max": [
+                50.0,
+                25.0,
+                45.0
+            ],
+            "min": [
+                -50.0,
+                -25.0,
+                0.0
+            ]
+        },
+        {
+            "componentType": 5126,
+            "count": 1662,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "componentType": 5126,
+            "count": 1662,
+            "type": "VEC2",
+            "max": [
+                0.10000000149011612,
+                0.09000000357627869
+            ],
+            "min": [
+                -0.10000000149011612,
+                -0.05000000074505806
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 13508,
+            "byteLength": 23879
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 37387,
+            "uri": "0010.bin"
+        }
+    ],
+    "images": [
+        {
+            "uri": "橡木，清漆，磨光.png",
+            "mimeType": "image/png"
+        },
+        {
+            "uri": "Oak_D_1m.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "uri": "Oak_N_1m.jpg",
+            "mimeType": "image/jpeg"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.5,
+                "roughnessFactor": 0.30000001192092898
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "橡木，清漆，磨光",
+            "doubleSided": true,
+            "extensions": {
+                "KHR_materials_clearcoat": {
+                    "clearcoatFactor": 1.0,
+                    "clearcoatRoughnessFactor": 0.30000001192092898
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 0,
+                    "material": 0,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 0,
+                            "attributes": {
+                                "POSITION": 0,
+                                "NORMAL": 1,
+                                "TEXCOORD_0": 2
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0
+        },
+        {
+            "children": [
+                0
+            ]
+        },
+        {
+            "children": [
+                1
+            ],
+            "scale": [
+                0.0010000000474974514,
+                0.0010000000474974514,
+                0.0010000000474974514
+            ],
+            "name": "001"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9729
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                2
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "sampler": 0,
+            "source": 1
+        },
+        {
+            "sampler": 0,
+            "source": 2
+        }
+    ],
+    "scene": 0,
+    "extensionsUsed": [
+        "KHR_materials_clearcoat",
+        "KHR_draco_mesh_compression"
+    ],
+    "extensionsRequired": [
+        "KHR_materials_clearcoat",
+        "KHR_draco_mesh_compression"
+    ]
+}
