@@ -344,6 +344,20 @@
 
   
   <url>
+    <loc>http://19999997.xyz/tags/docker/</loc>
+    <lastmod>2023-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://19999997.xyz/tags/typecho/</loc>
+    <lastmod>2023-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://19999997.xyz/tags/dplayer/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -372,21 +386,7 @@
   </url>
   
   <url>
-    <loc>http://19999997.xyz/tags/docker/</loc>
-    <lastmod>2023-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://19999997.xyz/tags/adguard/</loc>
-    <lastmod>2023-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://19999997.xyz/tags/test/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -414,7 +414,7 @@
   </url>
   
   <url>
-    <loc>http://19999997.xyz/tags/typecho/</loc>
+    <loc>http://19999997.xyz/tags/test/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -514,14 +514,14 @@
 
   
   <url>
-    <loc>http://19999997.xyz/categories/video/</loc>
+    <loc>http://19999997.xyz/categories/docker/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://19999997.xyz/categories/docker/</loc>
+    <loc>http://19999997.xyz/categories/video/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
