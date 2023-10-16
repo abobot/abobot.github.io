@@ -1,10 +1,12 @@
+http://19999997.xyz/3D/3D-model-001.html
+http://19999997.xyz/3D/3D-model-002.html
+http://19999997.xyz/dictations/dictation-day-004.html
 http://19999997.xyz/markdown-it-plugins.html
 http://19999997.xyz/hexo-adds-utterances-support.html
 http://19999997.xyz/hexo-blog-insert-video.html
 http://19999997.xyz/guide/hexo-theme-purabo-configurations.html
 http://19999997.xyz/guide/hexo-plugin-recommend.html
 http://19999997.xyz/guide/quickly-start.html
-http://19999997.xyz/3D/3D-model-001.html
 http://19999997.xyz/dictations/dictation-day-003.html
 http://19999997.xyz/dictations/dictation-day-002.html
 http://19999997.xyz/dictations/dictation-day-001.html
@@ -41,10 +43,10 @@ http://19999997.xyz/tags/video/
 http://19999997.xyz/tags/docker/
 http://19999997.xyz/tags/adguard/
 http://19999997.xyz/tags/test/
-http://19999997.xyz/tags/typecho/
 http://19999997.xyz/tags/Hexo/
 http://19999997.xyz/tags/pure/
 http://19999997.xyz/tags/change/
+http://19999997.xyz/tags/typecho/
 http://19999997.xyz/tags/hexo/
 http://19999997.xyz/tags/encryption/
 http://19999997.xyz/tags/record/
@@ -53,6 +55,7 @@ http://19999997.xyz/tags/plugins/
 http://19999997.xyz/tags/markdown/
 http://19999997.xyz/tags/guides/
 http://19999997.xyz/tags/3D/
+http://19999997.xyz/tags/model/
 http://19999997.xyz/tags/English/
 http://19999997.xyz/tags/dictation/
 http://19999997.xyz/tags/purabo/
